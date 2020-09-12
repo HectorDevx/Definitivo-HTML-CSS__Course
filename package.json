@@ -1,0 +1,20 @@
+{
+  "name": "Definitivo-HTML-CSS__Course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorDevx/Definitivo-HTML-CSS__Course.git"
+  },
+  "keywords": [],
+  "author": "Héctor Reyes <hectordevx@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HectorDevx/Definitivo-HTML-CSS__Course/issues"
+  },
+  "homepage": "https://github.com/HectorDevx/Definitivo-HTML-CSS__Course#readme"
+}
