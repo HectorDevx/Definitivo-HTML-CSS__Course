@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Select Input</title>
+  </head>
+  <body>
+    <main>
+      <!-- Mala practica -->
+      <!-- <select name="" id="">
+        <option value="javascript">Javascript</option>
+        <option value="html5">HTML5</option>
+        <option value="css3">CSS3</option>
+        <option value="web-standards">Web Standards</option>
+      </select> -->
+      <form>
+        <label for="">
+          <span>Elige tu curso</span>
+          <input list="cursos" />
+          <datalist id="cursos">
+            <option value="javascript"></option>
+            <option value="html5"></option>
+            <option value="css3"></option>
+            <option value="web-standards"></option>
+          </datalist>
+        </label>
+      </form>
+    </main>
+  </body>
+</html>
