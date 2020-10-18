@@ -1,0 +1,11 @@
+.adyacente h2 + p {
+  color: red;
+}
+
+.hermano-general h2 ~ p {
+  color: red;
+}
+
+.child div > p {
+  color: red;
+}
